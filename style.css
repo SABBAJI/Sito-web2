@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.titolo{
+  position: absolute;
+  left:45% ;
+  top:25%;
+  }
+.esterno{
+  width: 80%;
+  height: 90%;
+  position: absolute;
+  top:10%;
+  left:10%;
+}
+.interno{
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  left:50px ;
+  top:900px;
+}
+.testo{
+  position: absolute;
+  left:200px ;
+  top:1050px;
+}
+.testo1{
+  position: absolute;
+  left:900px ;
+  top:1000px;
+}
+.intestazione{
+ position: absolute;
+  left:43%;
+  top:0%;
+}
+.intestazione1{
+ position: absolute;
+  left:45%;
+  top:0%;
+}
+.intestazione2{
+ position: absolute;
+  left:45%;
+  top:0%;
+}
